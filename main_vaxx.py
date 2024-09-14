@@ -4,7 +4,7 @@ Version:
 Author: zrk
 Date: 2023-08-14 15:53:07
 LastEditors: zrk
-LastEditTime: 2024-08-31 19:44:55
+LastEditTime: 2024-09-14 20:17:49
 '''
 import openai
 import jsonlines
@@ -94,7 +94,7 @@ def form_template_label(test_data):
 
 
 def send_request(template):
-    openai.api_key = "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"
+
     # 0613之后不更新
     completion = openai.ChatCompletion.create(
     model="gpt-4-1106-preview",

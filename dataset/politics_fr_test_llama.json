@@ -1,0 +1,1162 @@
+[
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: L'intégration est le résultat d'une démarche individuelle. On ne voit en outre pas pourquoi l'on accorderait à des candidats à la naturalisation ce que l'on n'accorde pas aux Suisses.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Pour éviter de sacrifier notre agriculture, il convient toutefois d'en exclure le domaine agricole.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: La participation politique au niveau communal favorise l'intégration et fonctionne très bien dans les cantons et communes qui l'admettent (comme p.ex. à Fribourg).\n\nDie politische Mitbestimmung ist ein ausgezeichnetes Integrationsinstrument und funktioniert sehr gut in den Gemeinden und Kantonen, die dies bereits zulassen (wie z.B. in Freiburg).",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Au-delà des bénéfices de la \"voie bilatérale\" : sans immigration, la Suisse devrait fermer la plupart de ses hôpitaux, hôtels et restaurants, pratiquement toutes les entreprises maraîchaires - et de nombreux secteurs économiques seraient péjorés.\n\nOhne über die Vorteile des \"bilateralen Weges\" zu reden, müsste die Schweiz ohne Immigration die meisten Spitäler schliessen, fast alle Hotels und Restaurants, viele Bauernbetriebe - und zahlreiche Wirtschaftszweige hätten Einbussen zu erleiden.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Tous les cas de rigueur sont à étudier avec humanité et intelligence.\n\nAlle Härtefälle sind mit Menschlichkeit und Proportionalität zu behandeln.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Le moment pour des négociations d'adhésion semble mal choisi. Il s'agit de pérenniser et de développer la \"voie bilatérale\" et de la défendre contre toutes les veilléités isolationnistes.\n\nDer Moment für Beitrittsverhandlungen ist alles andere als optimal. Momentan gilt es, den \"bilateralen Weg\" abzusichern, auszubauen und ihn gegen isolationistische Angriffe zu schützen.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: La Suisse peut apporter une expérience intéressante à l'ONU : la démocratie, la défense des droits humains, le fédéralisme et la décentralisation, les bons-offices, la liberté et la responsabilité.\n\nDie Schweiz kann einen interessante Erfahrungen und Kompetenzen in die UNO-Debatten einbringen: mit ihrer Demokratie, der Verteidigung der Menschenrechte, dem Föderalismus und der Dezentralisierung, den Guten Diensten, der Freiheit und Verantwortung.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Question difficile : difficile d'y répondre par Oui ou Non. Il faut trouver des solutions humaines à des problèmes épineux et souvent urgents. Donc non à cette question, mais oui à chercher au mieux de quoi respecter des objectifs réalistes en terme d'intégration et de population.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Encore une fois, cette question posée de manière rigide n'a pas beaucoup de sens. Il faut vraiment voir au cas par cas. Le projet Papyrus à Genève a bien marché selon moi, mais jusqu'où peut-on aller au niveau Suisse et dans les 10-20 prochaines années ? Impossible d'y répondre maintenant.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: En fait, je dirais un Oui franc si c'était le cas de TOUTES les entreprises avec lesquelles nous travaillons et pas seulement des entreprises suisses. J'y vois là une inégalité en défaveur de nos entreprises. Donc OUI pour un renforcement des règles de responsabilités concernant TOUTES les entreprises avec lesquelles nous sommes en partenariat.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: La régularisation du statut des sans-papiers doit être un problème discuté avant-tout à l'international.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Cela dépend aussi du contenu exact de l'accord, par exemple en matière d'agriculture",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: La Suisse est un tout petit pays au milieu de l'Europe, et son intégration à l'Europe, donc les accords bilatéraux, et l'accord-cadre, sont importants pour son développement. Qui peut également bien penser que la Suisse peut et pourra elle seule \"résoudre\" les difficultés liées à l'immigration, de surcroît où l'évolution du climat va engendrer d'autres problèmes migratoires ?",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Les conditions pour acquérir la nationalité suisse sont suffisamment exigentes.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Avec des garde fous liés à l'environnement et à la qualité de production des produits",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: Si la Suisse peut s'abstenir de prendre parti pour un pays en guerre et garder sa neutralité",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Je suis pour favoriser la voie bilatérale avec la signature d'un accord-cadre institutionnel, qui maintient le niveau actuel de protection des salaires et ne mette pas en danger les services publics.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: L'\"Opération Papyrus\" menée à Genève a été un succès. Cette expérience devrait pouvoir être généralisée et pérennisée dans toute la Suisse.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: La Suisse doit pouvoir continuer à appliquer en particulier ses normes sanitaires pour assurer le niveau de sécurité et de qualité voulu par la population (par ex. interdiction des produits génétiquement modifiés).",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: A titre personnel, je suis favorable à l'octroi du droit vote mais pas d'éligibilité. Toutefois, cette décision doit rester de compétence communale.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Le système doit être équitable et être mis en œuvre au cas par cas.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Les vagues migratoires sont fluctuantes. Il n'y a pas lieu aujourd'hui d'envisager un durcissement. La réadmission dans le pays d'origine pour les personnes ne pouvant justifier d'un droit à l'asile en Suisse est une question plus urgente à régler.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Une intégration réussie est gage de sécurité et de cohésion. Toutefois, les coûts d'intégration peuvent varier considérablement d'un canton à l'autre. Le soutien de la Confédération devrait mieux tenir compte des coûts réels propres à chaque canton.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: La teneur de cet accord devra tenir compte des intérêts de tous y compris des réalités du secteur agricole indigène (conditions et coûts de productions, respect de l'environnement et du bien-être animal…).",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Je suis favorable au contre-projet à l'initiative \"Pour des multinationales responsables\". Le contre-projet clarifie les responsabilités et permet une mise en œuvre plus réaliste.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: On ne peut dissocier le droit de vote du droit d'être élu. Nombre de personnes étrangères siègent dans les conseils communaux et ne devraient pas être écartées des élections à des postes exécutifs. La liberté d'élection, en leur faveur ou non dépend, des choix du corps électoral souverain.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Oui ! les quelques 100.00 à 200.000 personnes non régularisées qui vivent, travaillent, paient leurs impôts et diverses cotisation devraient, après quelques années, obtenir un titre de séjour. On veut des bras et des personnes qui travaillent dans l'ombre, mais on ne leur donne pas droit de cité, dans une société où ils jouent un rôle indispensable.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Non ! La Suisse est en train de perdre son âme (Croix Rouge, protection des plus menacés, conventions de Genève de 1951, Déclaration Universelle des Droits de l'Homme). Les décisions tout simplement inhumaines en provenance du SEM et relayées par les Exécutifs cantonaux, tous partis confondus, font honte à notre prétendue humanité institutionnelle en mode \"Y'en a point comme nous !\".",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: On fait venir des travailleurs qui n'ont souvent pas pu terminer leur  scolarité dans leur pays, on les embauche dans des travaux pénibles et peu payés... et on leur demande de passer un test écrit pour se naturaliser ! Qu'on leur donne des cours gratuits dans leur entreprise et dans l'administration publique qui les emploie si on veut paraître sérieux sur ce thème.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Dans les pays du Nord de l'Europe, au Canada aussi, des cours de langue et d'intégration sont obligatoirement organisés, sur les heures de travail, afin de faciliter la communication et la bonne entente des récents arrivé.e.s avec les autochtones, suisses ou étrange/è.r.e.s établi.e.s. Voilà une gouvernance intelligente !",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: On a vu trop d'horreurs dans les dégâts humains et environnementaux de grandes entreprises transnationales (Congo, Brésil, Bengladesh, Nigeria, etc.) pour fermer les yeux sur des pratiques qui seraient inadmissibles en Suisse, en Europe de l'Ouest, mais sont tolérées, voire financées, dans d'autres continents.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Exemple avec l'opération Papyrus à Genève qui a permis de régulariser la situation de plusieurs centaines de personnes, en les sortant du travail au noir et de la détresse quotidienne.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Il faut également réintégrer le fait de pouvoir demander une demande d'asile dans les ambassades.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Au contraire, les personnes qui travaillent et vivent en Suisse de puis un certain nombre d'années doivent avoir des convictions facilitées pour accéder à la nationalité suisse. Et en attendant le mariage, la procédure devrait être facilitée pour les personnes unies par un partenariat.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: La libre circulation des personnes est un droit: ce droit c'est aussi un rempart contre la multiplication du travail au noir ou de postes occupés par des migrant·e·s sans droits, corvéables à merci et donc facteur de dumping salarial. Ce qui doit avoir la priorité ce n'est pas la limitation de ce droit, mais les mesures d'accompagnement qui garantissent le respect des conditions de travail et de salaire. Un salaire minimum légal de plus de 4000 fr est notamment indispensable",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Les sans-papiers résident·e·s doivent être tous et toutes régularisés et obtenir des permis de travail. Le maintien de dizaines de milliers de personnes qui travaillent ici depuis des années dans un statut de « sans-droits » est une hypocrisie et une injustice.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: les conditions de naturalisation sont déjà honteusement difficiles. Etre naturalisé ne devrait relever du privilège mais du parcours normal des personnes qui s'installent en Suisse, y font leur vie et contribuent, de 1001 façons, à faire de notre société ce qu'elle ait.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Cela dépend ce qu'on entend par soutien à l'intégration. Si par là on entend lutter contre les discriminations et la limitation des droits qui résultent en une non-intégration, je suis pour.\n\nPar contre, je serais contre les mesures qui limiteraient l'intégration à une normalisation culturelle et un effacement des spécificités de chacune et chacun. Notre société est d'autant plus riche qu'elle est diverse.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Adhérer à une Europe soumise à un diktat néo-libéral n'a aucun sens. Par contre, nous devons cultiver la solidarités entre tou-te-s (sur le continent et au-delà), pour construire une vraie Europe des peuples, dans laquelle notre pays a indéniablement sa place.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Les accords bilatéraux sont une nécessité pour l’économie suisse et donc la qualité de notre niveau de vie",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Continuer les efforts dans l’accélération des mesures administratives pour empêcher les situations ambiguës",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: La Confédération devrait donner des soutiens financiers et matériel en vue de mieux intégrer ces personnes par exemple dans le club sportif du village",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Cependant leur application ne doit pas ressembler à aucune forme «d'ingérence » de la part de la Suisse dans les pays concernés",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: La Suisse doit continuer à entretenir de bon rapports avec l'Europe comme en signant les accords-cadres. Nous devons rester à la table des négotiations (présentes et futures) si nous ne voulons pas que des décisions nous impactant se prennent sans nous. Toutefois, ce n'est pas parce que nous voulons entretenir de bons rapports avec notre voisinage que nous devons nous marier avec le voisin!",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: La Suisse et ses habitants ont une responsabilité qui doit aller au-delà de ses frontières. Nos actions ici ont des conséquences sur la vie d'hommes et de femmes ailleurs. Nous vivons dans une monde globailisé, qu'on le veuille ou non, et nos actions doivent être réfléchies en conséquences.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: L'immigration est clairement source de richesse pour notre pays. Toutefois il est important que les Suisses et les primo-résidents ne soient pas délaissés. Beaucoup de gens me font par d'une certaine rancoeur envers une immigration qui, souvent, se fait sur le dos des travailleurs locaux. Nous devons garantir que nous utilisons en premier lieu (si les compétences existent) les travailleurs et travailleuses qui habitent déjà en Suisse.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: pas la Confédération, plutôt les communes. Mais la question laisse une trop grande marge d'interprétation...",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: la question est trop vague . des mesures favorisant l'intégration au niveau des compétences ( langue notamment, insertion professionnelle - équivalence) doivent être envisagées mais pas forcément par un soutien  financier.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Les chambres fédérales doivent quand même proposer un contre-projet.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: L'expérience genevoise (Papyrus) prouve qu'une telle approche porte ses fruits. Toutefois, des conditions-cadres doivent être clairement exposées.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Les mesures d'encouragement à l'intégration sont plus adaptées aux échelles communales et cantonales. Ces entités ont un lien direct avec les personnes concernées.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Il faut pérenniser les accords bilatéraux et ratifier l'accord-cadre. En revanche, il n'est pas dans nos intérêts de requérir l'adhésion auprès de l'UE.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Je ne suis pas opposé au principe d'un accord de libre-échange. Des règles strictes et intangibles doivent cependant figurer dans un tel accord.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: On donne un droit mais sans les devoirs qui vont avec.totalement illogique",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Il faut surtout que la naturalisation redevienne un acte politique, et non plus administratif.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Selon notre approche fédéraliste, cette question revient aux communes.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Cette question est trop globale pour pouvoir y donner une réponse précise. Le droit d'asile doit être rigoureusement appliqué. Par contre l'un des problèmes les plus urgents, à savoir l'impossibilité d'effectuer un renvoi forcé vers certains pays, ne peut être résolu par un durcissement législatif.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Un tel accord n'est acceptable que s'il est soumis à des règles environnementales suffisantes.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Le droit de vote et d'élection doit être accordé à tous les niveaux (communal, cantonal, fédéral) pour toutes les personnes résidentes en Suisse.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Nous devons cesser immédiatement d'appliquer les accords de Dublin.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Toutes les personnes sans-papiers doivent être régularisées.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: C'est le cas dans le canton de Vaud et ce système fonctionne très bien et permet une excellente intégration des étrangers qui souhaitent participer à la vie locale...",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Les sans-papiers qui travaillent au noir dans notre pays font tourner notre économie informelle. Ignorer leur présence et ne pas leur reconnaître de droits est une hypocrisie.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Difficile d'avoir un droit à l'asile plus restrictif qu'aujourd'hui...",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: La Suisse est déjà l'un des pays européens qui naturalise le moins facilement les ressortissants étrangers.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: La question est mal formulée, car il est aujourd'hui surtout question de consolider la voie bilatérale. Il n'est pas question de vouloir l'adhésion! Mais oui, la Suisse doit se rapprocher de l'Union européenne. Actuellement, elle subit la législation européenne sans avoir son mot à dire dans les processus de décision européens.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Trop de risques pour les standards environnementaux et sociaux...",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: La Suisse peut et doit prendre ses responsabilités d'Etat neutre et dépositaires des Conventions de Genève au plan international.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Seuls ceux qui ont la nationalité suisse doivent pouvoir voter. Ceux qui aiment la suisse peuvent devenir suisse et donc voter.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Les accords bilatéraux sont nécessaires et la suisse a toujours été un pays d'accueil et doit le rester, mais sans exagération. La suisse ne doit pas être la réparatrice des erreurs des autres nations.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Toute personne ayant besoin d'aide doit être secourue et le fait d'être apatride peut être une source de souffrance supplémentaire. Leur apporter une aide facilitée, mais pour autant que tous les critères actuellement exigés soient respectés.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: La suisse a toujours été un pays d'accueil et doit continuer à l'être, mais les abus doivent être stoppés.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Les lois actuelles suffisent amplement pour ceux qui aiment la suisse de pouvoir se naturaliser.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Il faut aider tous ceux qui veulent s'intégrer pour la paix de chacun.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Il fait bon vivre dans notre pays avec nos propres lois que tous nous envient. Ne donnons pas le pouvoir à un gouvernement Etranger. Brexit nous donne la preuve que l'UE n'est pas si attirante.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Nous devons diversifions nos sources d'échange pour les produits qui ne sont pas produits en Suisse, mais au niveau écologique, l'importation de produits US serait une catastrophe.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Même si le pays accueillant lesdites entreprises suisses ne sont pas regardantes au niveau du droit humain ou aux normes environnementales, ces sociétés doivent avoir une étique car elle représentent la nation suisse.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: La Suisse est un lieu de Paix et peut apporter son soutien, mais attention à ne pas perdre notre neutralité.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Le droit d'asile actuel est suffisant, mais il faut l'appliquer.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: L'intégration est un critère fort dans la condition de naturalisation. Cela est en premier de la responsabilité de l'étranger.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: L'intégration est une responsabilité individuelle, mais proposer des plateformes comme des cours de langues est un pas vers une meilleure intégration.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Oui, si un tel accord porte sur des volets davantage industriels qu'agricoles. L'agriculture suisse doit rester protégée de la concurrence américaine.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Le maintien des accords bilatéraux est primordial pour notre pays.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: En matière de formation et d'intégration professionnelle.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: La situation actuelle permet déjà de bons échanges. Nulle raison de vouloir encore une fois libéraliser à tout crin, libéraliser les marchés ou affaiblir notre agriculture.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Les décisions se prenant au niveau communal impactent la vie de tous les jours des habitants étrangers. Si ceux-ci sont intégrés, travaillent et payent leurs impôts depuis au moins dix ans. Ils doivent pouvoir avoir leur mot à dire au niveau d'une commune.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: L'immigration est plus que suffisamment limitée en Suisse, il serait absurde de durcir une fois de plus le droit d'asile au détriment des accords bilatéraux.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Les produits suisses sont produits selon de plus hauts standards de qualité que les produits américains. Inonder le marché suisse de produits moins chers et mauvais pour la santé se fera au détriment de la santé des consommateurs suisses. De plus, mettre en concurrence la capacité de production américaine avec la paysannerie suisse mettra une pression supplémentaire sur les paysans suisses qui n'en ont pas besoin.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Comment décide-t-on d'octroyer, ou non, le droit de vote à une personne ? On se base majoritairement sur le critère d'intégration et de participation active au sein d'une communauté. Bien selon moi, une personne résidant en Suisse depuis au moins dix ans devrait être considérée comme intégrée et avoir le droit de participer à la prise de décisions qui influencera son milieu et son quotidien.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: Je suis fondamentalement pour un assouplissement général des frontières.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Les personnes sans-papiers ne sont rattachées à aucun pays, et donc à aucune identité. Cela a des conséquences extrêmement néfastes sur leur propre considération et l'image qu'ils se forment d'eux-mêmes. En tant que pays, il est de notre devoir d'accueillir ces personnes en leur fournissant une identité à laquelle ils puissent se rattacher.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Comme dit précédemment, je suis pour un assouplissement général des frontières. Il est absurde de penser que le problème de l'immigration se règlera par un durcissement du droit à l'asile. En repoussant les immigrés hors de chez nous, on ne fait que refourger le problème plus loin sans le régler, tout en oubliant qu'il s'agit d'être humains sur lesquels on s'octroie un droit de vie ou de mort qui n'a pas lieu d'être.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Des conditions de naturalisation revues à la hausse signifient des procédures encore plus longues et des temps d'attente interminables. Les conditions sont déjà largement exigeantes et puisque la situation des personnes demandant la naturalisation est de toute manière évaluée, ainsi que son niveau d'intégration, il n'est pas nécessaire d'augmenter la durée de séjour minimum au-delà de dix ans.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: L'argument qui revient le plus souvent dans le débat contre l'immigration est celui des individus non-intégrés. Celui-ci est absurde car il aboutit de facto à une conclusion qui n'est pas la bonne : il faudrait renvoyer ces individus chez eux. Le problème n'est pas là, il se trouve dans le fait que l'Etat n'aide pas assez ces individus à s'intégrer, car une intégration exigée sur de simples efforts sans soutien ne peut pas fonctionner.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Cela n'a pas de sens que la Suisse se situe au milieu de l'UE en en étant exclu. La majorité des échanges de la Suisse se font avec l'UE et il serait bénéfique pour la Suisse de pouvoir donner son avis lors des négociations et des prises de décisions, étant donné sa position centrale.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Les produits suisses sont déjà bien trop péjorés sur le marché par rapport aux produits importés, de par les normes plus strictes auxquelles ils doivent répondre. Il est donc nécessaire que la Suisse tende vers une économie circulaire qui permettrait aux produits locaux de bonne qualité de ne pas être concurrencés comme ils le sont actuellement.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Une entreprise suisse reste une entreprise suisse, même et surtout à l'étranger. Si la Suisse a posé des législations sur les droit humains et les normes environnementales, ce n'est pas pour aller les transgresser ailleurs.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: Un siège au Conseil de sécurité de l'ONU est bénéfique à la Suisse, car celle-ci pourrait prendre part aux décisions contraignantes et agir en tant que médiatrice afin de maintenir la paix dans tous les états membres.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Ceci est une compétence des communes et il ne me semble pas utile que la confédération décide de l'étendre uniformément sur tout le territoire. En effet, les communes se verraient amputées de cette prérogative.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La limitation de l'immigration a-t-elle pour vous la priorité sur le maintien des accords bilatéraux avec l'UE?, Text: La libre-circulation des personnes avec l'UE est dans l'intérêt de la Suisse. Il serait dommageable pour nos intérêts économiques de réduire une immigration compétente que nous avons besoins pour nos entreprises et industries. Par ailleurs, la libre-circulation va de pair avec les bilatérales qui nous garantissent d’exporter vers les pays de l’UE, qui sont nos premiers partenaires au monde ainsi que de bénéficier d’échange stratégique sur la sécurité.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: Il n'est pas souhaitable de créer une injustice entre les migrants qui ont déposé une demande légale et qui a été refusée contre ceux venus illégalement, mais qui se serait fait régulariser. Cependant, il serait sage de prendre cette problématique au cas par cas. En effet, ceux venus illégalement, mais que nous n'avons pas été capable d'expulser alors qu'ils travaillent depuis des années, se verrait moins exploité et donc contribuerai plus fiscalement tout en limitant le travail au noir.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Les bases légales existent et il faut combattre les abus en la matière, mais cette question ne peut être résumée de manière manichéenne. Il est regrettable que certains en fassent leur discours d'unité pour se faire bien voir par certains. N'oublions pas que personne ne décide de quitter sa terre, sa famille et ses amis pour aller vers un futur incertain ou il ne connaît personne et souvent pas la langue de destination. La misère et l’insécurité poussent tout le monde à se trouver un futur.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Y a-t-il un souci particulier qui demande à les revoir ? Tout semble clair et appliqué conformément à la loi et les intégrations ne semblent pas poser de problème particulier.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Il est avant tout de la responsabilité du migrant de se conformer aux lois du pays qui l'accueille. En revanche, l'état doit apporter son aide pour les demandes d'asile et mettre en place les ressources nécessaires pour une bonne intégration, comme des cours de langues. En d’autres termes, plus vite une personne est intégrée, plus vite elle trouvera un travail et participera à la vie en société y compris financièrement.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Absolument, car ça apportera sans aucun doute de nouvelles opportunités pour notre économie et renforcerait nos exportations avec les États-Unis qui est le deuxième pays le plus important en termes d'exportation pour la Suisse, juste après l'UE.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Demander uniquement à nos entreprises d'en faire plus sur ces questions sans coordination internationale serait inefficace et par ailleurs, préjudiciable pour notre économie. Cependant, il faut continuer le travail de coordination international avec nos partenaires pour que tendre vers plus de respect des droits humains et de l’environnement.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: Il y a bien plus d'avantages à avoir un siège que le contraire. La Suisse à son rôle à jouer et surtout sa voix à faire entendre.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Sans augmentation de charges pour les cantons et les communes. Surtout acquisition des compétences linguistiques.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle entamer des négociations d'adhésion à l'Union européenne?, Text: Privilégier les accords bilatéraux et les points essentiels de l'accord institutionnel (droit de citoyenneté, mesures salariales d'accompagnement, aides d'Etat).",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Et au niveau cantonal également! Quiconque vit en Suisse depuis plusieurs années doit pouvoir participer à la vie politique qui le/la concerne.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Le droit d'asile a été complètement perverti par la droite. Il sert maintenant à empêcher les personnes en danger et dans le besoin de venir trouver refuge en Suisse alors que le but premier et la raison même du droit d'asile c'est bien d'accorder l'asile à ceux et celles qui en ont besoin. L'asile est un droit et un refuge, la droite dénature complètement le coeur du droit d'asile en durcissant les conditions d'accès au statut de réfugié·e.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les conditions de naturalisation devraient-elles être revues à la hausse?, Text: Les conditions de naturalisation sont déjà extrêmement strictes en comparaison internationale. La naturalisation facilitée devrait être accordée à quiconque a passé la plus grande partie de son enfance en Suisse. Cela va de soi, mais ce n'est toujours pas le cas avec les conditions de naturalisation actuelles.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Oui mais sans paternalisme, c'est-à-dire sans exiger et punir ceux et celles qui auraient plus de peine à s'intégrer.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les personnes sans-papiers devraient-elles pouvoir obtenir plus facilement un statut de séjour régularisé?, Text: En particulier celles qui travaillent depuis longtemps.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Confédération devrait-elle soutenir davantage les étrangères et étrangers dans leur intégration?, Text: Des cours de langue approfondis gratuits pour toutes et tous",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Il est curieux que les entreprises suisses ne le fassent pas de leur propre initiative",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: Le Conseil de sécurité est une structure qui devrait disparaître, car elle donne des pouvoirs différents à certains Etats sur le plan international.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un durcissement supplémentaire du droit à l'asile?, Text: Il est temps de se remettre en question: stop à la bêtise et à la malveillance de certains partis, oui à plus d'humanité !",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Tant que Trump sera président, cela me semble une fausse bonne idée.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur de la candidature de la Suisse à un siège au Conseil de sécurité de l'ONU?, Text: Si l'on trouve un chef de département plus compétent que monsieur Cassis.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: le président actuel n'est pas assez fiable pour pouvoir conclure un tel accord. De plus, si nous devions ensuite subir les attaques judiciaires des entreprises étasuniennes parce que nous n'achetons pas assez...",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: Des sociétés polluent des régions entières et asservissent les populations à l'étranger en gardant les mains blanches en Suisse. Ce n'est pas normal.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Oui si cet accord impose une transparence et une traçabilité du produit.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Doit moyens d'aides sembles plus efficaces. (sur place par exemple).",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: Le développement et la sauvegarde des accord bilatéraux est primordial.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Accueil d'urgence en groupe de façon provisoire, suivi d'une enquête au cas par cas pour une admission définitive",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: favorable à la légalisation du statut des sans-papiers qui sont bien intégrés avec étude au cas par cas.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: J'irais même plus loin. Toute personne installée durablement en Suisse devrait pouvoir participer aux délibérations politiques de son pays de domicile.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: L’entrée dans l’UE ne ferait pas reculer nos droits sociaux, particulièrement faibles en Suisse, mais se traduirait par un déficit démocratique et une entrée dans la spirale néolibérale des politiques européennes.\nL’UE est en effet un grand marché  destructuré, administré de façon autoritaire par sa Commission.\nNous sommes pour une Europe des peuples, qui harmonise par le haut son droit social et les conditions de vie des salarié-e-s. C'est Europe est encore à construire.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: Nous sommes favorables à des prises de positions claires, et à des engagements forts sur la scène internationale, mais sommes en désaccord profond avec la politique étrangère actuelle de la Suisse.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: La libre concurrence qu'exige une zone de libre-échange a des effets pervers dès que les règles liées à la production des biens et des services ne sont pas équivalentes. Un tel accord avec une telle puissance mérite une attention soutenue.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: L’entrée dans l’UE ne ferait pas reculer nos droits sociaux, particulièrement faibles en Suisse, mais se traduirait par un déficit démocratique. L’UE est en effet un grand marché administré de façon autoritaire par sa Commission.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: Nous sommes favorables à des prises de positions claires, mais sommes en désaccord avec la politique étrangère suisse",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: La Suisse doit poursuivre son action envers les réfugiés en acceptant ceux dont l'intégration est envisageable. Mais l'essentiel de son action doit être menée dans les régions voisines des zones de conflit, car l'argent y est bien mieux investi pour une aide plus ciblée, tout en évitant l'appel d'air qui conduit des multitudes à risquer leurs vies en traversant la Mediterranée.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: c'est clairement une question de sensibilité locale et cette question appartient clairement au Souverain de chacun des Etats membres de la Confédération",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: il est impossible de répondre à une telle question posée de cette façon",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: une fois encore poser la question de cette façon est totalement insatisfaisante. La réponse l'est donc nécessairement. \nIl est des populations pour lesquelles il faut oui, d'autre non et d'autre encore plutôt oui ou non.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: JAMAIS\nCe serait la perte des nos droits démocratiques. Il suffit d'observer le spectacle lamentable que nous donne quotidiennement l'Ue pour comprendre qu'il est particulièrement périlleux de confier le destin d'un pays à un aréopage d'individus qui ne se prononcent plus dans l'intérêt général mais le leur et, qui plus est, à court terme!",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: la politique américaine n'est plus issue d'un débat démocratique mais de la dictature de Wall Street qui verrouille tous les postes clé. Ce pays nous a montré qu'il n'est plus possible de lui faire confiance et donc un accord de libre échange avec lui comporte trop d'inconnues pour qu'il soit envisageable d'en signer un actuellement.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: Sur des bases purement financières, non. A discuter si des critères environnementaux et sociaux sont introduits.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Il est important de pouvoir accueillir des personnes dans de véritables situations de détresse (Syrie) tout en étant clair qu'elles devront rentrer dès que la paix sera revenue. Pour rester crédible face à la population suisse, il est indispensable d'appliquer strictement les lois existantes pour toutes les autres catégories de migrants ce qui n'est pas le cas actuellement. La Suisse ne peut accueillir toute la misère du monde.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Le droit de vote ne devrait être accordé qu'aux personnes ayant signifié leur volonté d'intégration par la naturalisation. D'autant que la double nationalité est possible.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: Egalement avec une plus grande confiance dans ses atouts et la façon d'en faire bénéficier ceux qui le souhaitent. Il m'est difficile de voir à quel point la Suisse se soucie plus de son image, s'excuse d'avoir du succès,... au détriment d'une vue objective de ses atouts.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Selon le fédéralisme, cette décision est communale. Dans ce domaine, une mise en œuvre généralisée au niveau suisse supprime les compétences communales.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: Je partage l'avis du PLR: le PLR ne veut pas d’une adhésion à l’Union européenne, ni d’un repli sur soi. Le PLR demande que les accords bilatéraux soient sauvegardés et puissent continuer d’être développés.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: L'UE et les USA sont en négociation depuis l'été 2013 sur un important partenariat de commerce et d'investissement transatlantique (TTIP). La conclusion d'un accord TTIP entre l'UE et les USA présente une source de discrimination considérable pour les entreprises industrielles suisses. Par conséquent, la Suisse devrait tenter d'adhérer au TTIP en association avec l'AELE pour éviter des possibles situations discriminatoires.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les règles de responsabilité pour les entreprises domiciliées en Suisse devraient-elles être renforcées en matière de respect des droits humains et des standards environnementaux dans leurs activités à l’étranger?, Text: L'ordre juridique suisse ne doit pas donner des règles impératives dans d'autres pays.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: La marge de manœuvre actuelle du gouvernement avec cet instrument de politique extérieure est suffisante pour mener à bien les négociations et décisions futures sans devoir définir cette notion de manière plus stricte.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Selon le fédéralisme, cette décision est communale.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: Cela créerait une inégalité de traitement par rapport aux migrants qui arrivent en Suisse légalement.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: C'est un moyen complémentaire pour aider les personnes provenant des régions de crise. Cependant, il faudrait renforcer en priorité l'aide sur place.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: La liberté quant au choix d'appliquer ce droit doit cependant être laissé aux cantons et communes.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: Tant que la Suisse n'estime pas qu'il est nécessaire de prendre des mesures restrictives, elle ne devrait pas céder aux demandes d'autres pays ou organisations.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La politique étrangère de la Suisse devrait-elle s’orienter vers une interprétation plus stricte de la neutralité?, Text: La Suisse a fauté avec les Russes en les refusant à Air14",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: La Suisse compte parmi le plus de demandes d'asile par habitant en Europe. Les autres pays européens doivent en priorité faire des efforts pour égaler la Suisse.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Ce système fonctionne bien dans le canton de Vaud et aide à une meilleure intégration des étrangers",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: L'adhésion à court-terme n'est pas réaliste mais la Suisse doit continuer à envisager le scénario de l'adhésion.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Il faut surtout une coordination européenne dans laquelle nous aurions un rôle moteur. Il faut être proactifs dans ce dossier.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: Avec des entreprises qui respectent l'environnement et les travailleurs oui.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Non à l'Etat-providence, à l'intérieur comme à l'extérieur du pays.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Le nombre d'année ne prouve pas qu'ils sont intégrés.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Il y a déjà huit millions d'habitent et 60 milles demande de travail par année.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: C'est une technocratie qui n'est que lourdeur et ne rapporte rien de plus.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: Je suis favorable à la régularisation des sans-papiers mais en aucun cas sans critère ni condition précis, notamment en termes d'emploi et de durée de leur présence sur notre territoire. Cette régularisation devrait concerner ceux qui travaillent et qui sont intégrés depuis un certain temps chez nous. Les autres devraient suivre les procédures et les règles usuelles.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: C'est précisément dans le cadre de telles démarches coordonnées entre pays que nous pourrons le plus efficacement gérer l'accueil des personnes qui en ont besoin.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Il est très important de pouvoir participer aux décisions dans le lieu où l'on vit. Et cela pourrait susciter chez certains l'envie de s'engager aux autres niveaux institutionnels et d'entamer des démarches de naturalisation, ce qui serait très positif.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: Je suis favorable, à terme, à une adhésion. Cependant, notre situation ne nous le permettra probablement pas à aussi court terme. Notre première urgence doit être de sauvegarder les bilatérales. Ceci dit, en cas d'échec et face à une alternative rapide entre isolement et adhésion, la deuxième option est absolument la bonne.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations pour un accord de libre échange avec les Etats-Unis?, Text: Nous nous opposons en particulier avec la dernière fermeté au Partenariat transatlantique de commerce et d'investissement (TTIP), qui permettrait à de grandes entreprises de remettre en cause des mesures de régulation décidées démocratiquement par les Etats.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Les règles de responsabilité pour les entreprises domiciliées en Suisse devraient-elles être renforcées en matière de respect des droits humains et des standards environnementaux dans leurs activités à l’étranger?, Text: Notre responsabilité ne s'arrête pas à nos frontières et 70 % de notre impact environnemental a lieu à l'étranger. Les pratiques de production scandaleusement contraires aux droits du travail voire aux droits humains les plus élémentaires sont par ailleurs inacceptables, où qu'elles adviennent.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: oui, surtout si ceux-ci sont depuis plusieurs années en Suisse avec des enfants scolarisés",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: L'U.E. a déjà assez de problèmes à résoudre sans qu'on rajoute encore les nôtres. De plus, en tant que \"petit\" pays, il vaut mieux garder notre indépendance ; et de toute manière, nous n'aurions que très peu d'influence sur la prise de décisions.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: L'aspect \"collectif\" me dérange, raison pour laquelle je serais plutôt contre. Pourquoi ne pas examiner les situations particulières? Les trajectoires des migrants sont toutes singulières et méritent tous un égal examen. Prendre des décisions à la louche en matière de droit des étrangers, c'est manquer d'une finesse absolument nécessaire puisque l'on touche ici en profondeur à la vie des personnes concernées.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: Les chiffres sont éloquents et montre que la Suisse n'honore actuellement pas son image de terre d'accueil. Évidemment, l'immigration et l'accueil de réfugiés ne doit pas se faire de manière désordonnée et déséquilibrée. Si la Suisse accueillait davantage de réfugiés, il faudrait que nos partenaires européens en fassent autant. Et encore une fois: il est nécessaire d'accompagner toute immigration par une politique efficace d'intégration des étrangers.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à la légalisation du statut des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: De façon pragmatique, il faut régler une fois pour toute cette question, sinon on utilise plus de ressources pour pourchasser des personnes qui se trouvent en Suisse depuis de nombreuses années.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: On ne peut pas en même temps économiser sur l'aide au développement et en même temps se désolidariser des réfugiés qui fuient des zones de guerres.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Cette décision n'est pas du ressort du parlement fédéral. Chaque commune ou canton est compétente dans ce domaine.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle accueillir plus de groupes de réfugiés (contingents de réfugiés), provenant directement de zone de crise, et pour lesquels le Haut Commissariat des Nations Unies pour les réfugiés (HCR) recherche des pays d'accueil?, Text: La Suisse accueille aujourd'hui déjà l'un des plus haut taux de requérants d'asile et de réfugiés. La grande majorité ne remplit pas les conditions d'octroi de ce statut.\n\nIl convient d'accélérer les procédures afin d'améliorer le tri à la base.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Je préférerais un délai de 5 ans et que chaque commune puisse décider.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'État devrait-il engager davantage de moyens financiers dans l'intégration des étrangers?, Text: C'est un bon investissement qui permet des meilleures connaissances et compréhensions mutuelles.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: La plupart des étrangers intéressés par le droit civique passent par la naturalisation.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'accès à la naturalisation facilitée par la Confédération doit-il être rendu plus difficile?, Text: L'étranger doit pouvoir prouver qu'il est intégré et parle au moins une langue nationale courament.... ce qui n'est pas le cas actuellement. Aujourd'hui, énormément des demandeurs ne se sentent pas suisses, mais demandent la naturalisation par \"confort\".",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle accueillir plus de groupes de réfugiés (contingents de réfugiés) pour lesquels le Haut commissariat pour les réfugiés de l'ONU (UNHCR) recherche des pays d'accueil?, Text: S'il s'agit de personnes issues de pays en guerre ou de cas humanitaires prouvés, mais d'une manière générale je suis d'avis qu'il faudrait, dans la mesure du possible, aider d'avantage les gens à pouvoir rester dans leur pays et leur culture.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Approuvez-vous des engagements de soldats armés (pour l'autoprotection) de l'armée suisse à l'étranger dans le cadre de missions de maintien de la paix de l'ONU ou de l'OSCE?, Text: Soit ils y vont armés ou alors ils n'y vont pas du tout. Ils doivent avoir les moyens de se protéger.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: A mes yeux la conclusion du processus d'intégration est la naturalisation qui donne ensuite accès aux droits civiques.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'État devrait-il engager davantage de moyens financiers dans l'intégration des étrangers?, Text: L'intégration se passe d'abord au niveau communal et ce sont ces collectivités qui devraient décider en 1er lieu des moyens à allouer. Dans le domaine de l'intégration, l'essentiel me semble être la volonté. Les moyens financiers me semblent secondaires.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: Une telle initiative met en danger notre pays tant du côté économique que du côté social.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un accord de libre-échange agricole avec l'UE ?, Text: Cet accord ne doit être négocié que si nous en retirons aussi des avantages pour cette branche qui a souvent été sacrifiée dans les négociations internationales.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Et pendant ce temps on le refuse aux Suisses de l'étranger dans leur commune d'origine ? Mais de qui se moque-t-on ?\n\nLe droit de cité entraine la nationalité et le droit de vote, si un résident étranger veut participer pleinement à la vie politique, il doit choisir la naturalisation. Sinon, le droit de cité marche sur la tête et l'antipodisme est une discipline à réserver au cirque.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'accès à la naturalisation facilitée par la Confédération doit-il être rendu plus difficile?, Text: Le cadre est déjà assez restrictif et c'est se focaliser démagogiquement sur des mesures qui concernent relativement peu de personnes par an. Gardons le sens des priorités.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à l'instauration de l'échange automatique d'informations sur les clients bancaires entre la Suisse et les autorités fiscales étrangères?, Text: Les droits des autorités fiscales étrangères s'arrêtent à la frontière de leur état, sauf ce qui concerne des délits économiques, fiscaux etc. inscrits identiquement dans le droit suisse.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: L'UE a quelques menus retards démocratiques à mon humble avis… Adhérer serait régresser.\n\nEt puis, le Souverain n'a-t-il pas clairement exprimé qu'il ne voulait pas en entendre parler avant 2017 au moins ?",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un accord de libre-échange agricole avec l'UE ?, Text: Si nous le faisions, quelle serait notre autonomie alimentaire ? L'UE est déjà minée par la concurrence agricole intra-communautaire, pour la Suisse ce serait un suicide agricole.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Au cours des dernières années la Suisse a mené une politique étrangère plus active et plus publique qui se tenait moins à la neutralité stricte. Êtes-vous favorable à cela?, Text: La stricte neutralité ne veut pas dire que l'on assume des missions de bons offices uniquement dans le silence des alcôves. Faire connaitre le rôle actif de la diplomatie suisse ne peut qu'aider encore l'image de la Suisse dans le monde. Tant que le DFAE s'en tient à la promotion de la paix, la résolution de conflit ou l'humanitaire et la coopération, il ne peut en ressortir que du positif.\n\nAu cas : non, je ne suis pas candidat à la succession de Madame Calmy-Rey.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: Je suis préoccupé par la croissance démographique mais cette initiative me paraît une mauvaise solution.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Etes-vous pour la légalisation des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: Nous vivons aujourd'hui une situation hypocrite, dans laquelle des milliers de personnes vivant en Suisse depuis de nombreuses années, tout à fait intégrés, n'ont pas le droit d'être ici. Et notre économie en profite aussi. Il faudrait néanmoins remplir un certain nombre de critères : par exemple commencer par tous les enfants qui ont effectué leur scolarité en Suisse, et être en Suisse depuis un certain nombre d'années...",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'État devrait-il engager davantage de moyens financiers dans l'intégration des étrangers?, Text: Si le thème est aujourd'hui central en Suisse, c'est parce que les étrangers d'aujourd'hui ne se sont pas intégrés comme ceux d'hier (immigration du Sud de l'Europe des années 50 à 70). Il me semble normal que l'État fasse son maximum pour favoriser cette intégration.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle accueillir plus de groupes de réfugiés (contingents de réfugiés) pour lesquels le Haut commissariat pour les réfugiés de l'ONU (UNHCR) recherche des pays d'accueil?, Text: L'UNHCR me semble une autorité à laquelle on peut faire confiance en terme de besoin de pays d'accueil.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à l'instauration de l'échange automatique d'informations sur les clients bancaires entre la Suisse et les autorités fiscales étrangères?, Text: Échange oui, mais pas automatique. Et pourrait-on demander la même transparence de part et d'autre ?",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle engager des négociations quant à son adhésion à l'UE au cours des quatre prochaines années?, Text: Il faudrait clairement établir ce que nous aurions à y gagner et ce que nous risquons de perdre. Il faudrait aussi voir ce que nous pourrions amener à l'UE. Mais il faut continuer à intensifier nos relations avec l'UE.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un accord de libre-échange agricole avec l'UE ?, Text: Notre agriculture a des exigences et des contraintes qui n'existent pas dans tous les pays d'Europe (conditions sociales des travailleurs par exemple), et il convient de favoriser la consommation de proximité en lien avec le développement durable.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Le respect des droits de l'homme doit-il être pris en compte de manière plus importante lors d'accords économiques passés avec d'autres pays (p. ex. accords de libre-échange)?, Text: Le respect des droits de l'homme dans le domaine concerné par le libre-échange. Pas les droits de l'homme en général, sinon nous ne pourrions plus avoir d'accord économique avec des pays où l'on connait la peine de mort...",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Etes-vous pour la légalisation des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: La situation de ces gens dans notre pays est indigne d'un Etat de droit. Ils ne sont protégés par rien ni par personne. Cela doit changer. Néanmoins, la situation de chacun doit tout de même être succinctement analysée pour ne pas octroyer des permis de séjour à des éventuels criminels.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: C'est le cas dans le canton de Neuchâtel, et cela se passe très bien.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'accès à la naturalisation facilitée par la Confédération doit-il être rendu plus difficile?, Text: Intégrer est un des piliers pour qu'il n'y ait pas de choc culturel ou de violence.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: Je ne souscrirai jamais à chiffrer les êtres humains. En outre, si une année on dépasse le quota mais que plusieurs étrangers hautement qualifiés doivent venir travailler en Suisse, cette initiative ruinerait notre économie. Finalement, il faut se rappeler que c'est grâce au flux migratoire dans notre pays que nos assurances sociales se portent plutôt bien.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Au cours des dernières années la Suisse a mené une politique étrangère plus active et plus publique qui se tenait moins à la neutralité stricte. Êtes-vous favorable à cela?, Text: Je n'ai rien remarqué à part des gesticulations...",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Etes-vous pour la légalisation des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: C'est une mesure généreuse et peut-être indispensable dans certains cas, mais sans savoir de combien de personne on parle, difficile d'accepter. De plus, cela pourrait créer un précédent regrettable.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: De manière générale, je préfère les mesures qui permettent aux gens de rester dans leur pays.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: La croissance démographique pèse lourd sur la qualité de vie des suisses (loyers, embouteillages, etc). \nNéanmoins, avant de mettre des limites dans la constitution, il faut commencer par arrêter les interventions de l'Etat qui encouragent cette croissance. Dans le canton de Vaud, il s'agit essentiellement de la promotion économique visant à attirer des entreprises étrangères.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Approuvez-vous des engagements de soldats armés (pour l'autoprotection) de l'armée suisse à l'étranger dans le cadre de missions de maintien de la paix de l'ONU ou de l'OSCE?, Text: Je pense que les interventions à l'étranger, qu'elles soient armées ou autres, n'apportent rien de bon. Moins nous pratiquerons l'ingérence, mieux le monde se portera à long terme.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à l'accord sur la libre circulation des personnes existant avec l'UE?, Text: Il y a un problème avec l'accord de libre circulation des personnes, non pas à cause de la libre circulation, mais à cause de  l'inefficacité de l'imposition des mesures d'accompagnement contre le dumping salarial. Pour maintenir telle quelle la libre circulation, il faut à l'avenir des contrôles stricts. Le problème ne vient pas des travailleurs européens, mais du respect d'une loi égale pour tous.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Absolument! Un citoyen qui partage la vie de sa commune depuis plus de dix ans et qui paye ses impôts, sous-entendu qui partage les mêmes devoirs que son voisin suisse, DOIT bénéficier des mêmes droits.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Les étrangers et étrangères payent des impôts et participent à la vie de la cité. Il est normal qu'ils et elles puissent s'exprimer dans les urnes.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: Le vrai problème, c'est le mitage du territoire par la construction de zones villas et une mauvaise planification, pas l'augmentation démographique.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un accord de libre-échange agricole avec l'UE ?, Text: Un tel accord signerait l'arrêt de mort de l'agriculture suisse, qui n'est pas compétitive face à ses grands voisins européens, souvent moins bien regardants en matière de sécurité alimentaire ou d'écologie.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Le respect des droits de l'homme doit-il être pris en compte de manière plus importante lors d'accords économiques passés avec d'autres pays (p. ex. accords de libre-échange)?, Text: ll n'est pas tolérable que l'on retrouve dans nos magasins des produits fabriqués dans des conditions sociales ou écologiques inacceptables.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Une personne qui vit depuis 10 ans dans la même commune est ce que l'on peut appeler une personne intégrée, car c'est déjà une \"épreuve\" que de s'installer dans le même lieu avec les mêmes intervenants et avec les mêmes devoirs, donc deuxième étape : les mêmes droits.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'État devrait-il engager davantage de moyens financiers dans l'intégration des étrangers?, Text: Peut-être que la question n'est pas posée dans le bon sens, peut-être devrait-on se demander s'il n'est pas essentiel d'investir pour apprendre à intégrer l'autre. ....",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle accueillir plus de groupes de réfugiés (contingents de réfugiés) pour lesquels le Haut commissariat pour les réfugiés de l'ONU (UNHCR) recherche des pays d'accueil?, Text: Pour  des raisons purement éthiques, je ne me reconnaît pas de droit personnel à dire oui ou non à l'entrée de + ou - de réfugiés...ça ressemblerait à profiter de l'argent du beurre sans me demander comment il est arrivé dans mon assiette. L'humanité est interdépendante ou elle n'est pas et donc, ce qu'elle génère également.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous en faveur d'un accord de libre-échange agricole avec l'UE ?, Text: La marchandisation et mondialisation  de l'alimentation a créé des dégâts incommensurables sur la terre cultivable et aussi sur la santé humaine. Je suis contre cette tendance et trouve que l'agriculture doit rester à l'échelle locale. Les échanges devant uniquement servir aux produits qui ne pousseraient pas dans notre pays.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Êtes-vous favorable à l'accord sur la libre circulation des personnes existant avec l'UE?, Text: à ceci près que si des mesures d'accompagnement ne sont pas prises pour la protection des travailleurs, l'exploitation du monde ouvrier se fait en \"libre circulation\" également. Et là, je ne suis pas sûre que les moyens mis à disposition du contrôle, soient suffisants.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Etes-vous pour la légalisation des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: Le cas pour cas doit prévaloir mais on doit assouplir les cas pour lesquels la légalisation est possible (long séjour prouvé, bonne conduite, maîtrise d'au moins une langue nationale).",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Etes-vous pour la légalisation des sans-papiers par un octroi collectif et unique de permis de séjour?, Text: Il faut tenir compte des circonstances particulières liées à telle ou telle personne: pas d'automaticité, mais les personnes ayant fait la preuve d'une réelle volonté de s'intégrer doivent pourvoir obtenir un permis de séjour.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote au niveau communal soit instauré pour les étrangers qui vivent en Suisse depuis au moins dix ans et ce, dans toute la Suisse?, Text: Il faudrait plutôt faciliter leur naturalisation: après 10 ans dans un pays, on a eu le temps de s'intégrer.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'État devrait-il engager davantage de moyens financiers dans l'intégration des étrangers?, Text: La Suisse compte plus de 20% d'étrangers, qui participent pour la plupart activement au développement économique de notre pays. Bien les accueillir, leur expliquer les règles de vie en vigueur, faciliter l'apprentissage d'une langue nationale, c'est aussi éviter des malentendus, des réactions de rejet et des problèmes de comportement.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: L'accès à la naturalisation facilitée par la Confédération doit-il être rendu plus difficile?, Text: Au contraire: il est aberrant que des personnes nées en Suisse, qui ont notre accent, participent aux activités des sociétés locales, travaillent et paient des impôts, soient découragés de devenir Suisses à cause de tracasseries administratives.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse doit-elle accueillir plus de groupes de réfugiés (contingents de réfugiés) pour lesquels le Haut commissariat pour les réfugiés de l'ONU (UNHCR) recherche des pays d'accueil?, Text: On doit plutôt agir sur place, notamment en augmentant l'aide au développement et par une diplomatie active favorisant le règlement pacifique des conflits. Où est passée notre diplomatie des bons offices?",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Soutenez-vous l'initiative populaire qui souhaite réguler l'immigration et limiter la croissance démographique due à la migration à 0.2% cent par an?, Text: Nous avons besoin des étrangers pour faire fonctionner notre économie. Il suffit d'aller faire un tour à l'hôpital ou aller dans un hôtel pour se rendre compte que notre pays serait paralysé sans les nombreux étrangers qui permettent son fonctionnement et financent nos assurances sociales.",
+        "output": "Against"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Au cours des dernières années la Suisse a mené une politique étrangère plus active et plus publique qui se tenait moins à la neutralité stricte. Êtes-vous favorable à cela?, Text: Il faut donner une bonne image de la Suisse à l'étranger: pas seulement un pays égoïste qui reste en retrait et fait de l'argent partout où c'est possible, mais une pays qui s'investit pour résoudre les problèmes. Notre déficit d'image nous a coûté cher ces dernières années (fonds en déshérence, secret bancaire etc.).",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Seriez-vous favorable à ce que le droit de vote et d'élection soit introduit au niveau communal pour les personnes étrangères qui résident en Suisse depuis au moins dix ans?, Text: Cela représenterait un beau signe d'ouverture et permettrait aux personnes étrangères d'encore mieux s'intégrer dans leur commune.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: La Suisse devrait-elle conclure un accord de libre-échange avec les Etats-Unis?, Text: Cet accord devra cependant être suffisamment bien encadré pour éviter le genre d'excès que l'on a pu observer dans d'autres projets similaires à l'étranger comme TAFTA ou le CETA.",
+        "output": "Favor"
+    },
+    {
+        "instruction": "What is the attitude of Text toward Target? Give me a one-word answer. Select from 'Favor', 'Against' and 'None'.",
+        "input": "Target: Une initiative demande que les règles de responsabilité des entreprises suisses en matière de respect des droits humains et des normes environnementales à l'étranger soient renforcées. Soutenez-vous cette proposition?, Text: L'initiative part d'un bon fond mais les règles suisses ne sont pas systématiquement transposables à l'étranger. Nous devons faire attention à ne pas pratiquer une forme de néocolonialisme.",
+        "output": "Against"
+    }
+]
